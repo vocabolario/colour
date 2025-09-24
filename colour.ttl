@@ -24,7 +24,7 @@ voco: a skos:ConceptScheme ;
     dct:source "https://en.wikipedia.org/wiki/Lists_of_colors" ;
     dct:creator "Renato Iannella <r@iannel.la>" ;
     dct:created "2025-09-19" ;
-    dct:modified "2025-09-23" .
+    dct:modified "2025-09-24" .
 
 ### Vocabulary Concepts
 
@@ -110,7 +110,7 @@ voco:amber a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
     skos:prefLabel "Amber"@en ;
     skos:notation "#FFBF00"^^voco:hex ;
-    dct:source "RGB color model" .
+    dct:source "RGB colour model" .
 
 voco:amethyst a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
@@ -188,7 +188,7 @@ voco:arylideyellow a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
     skos:prefLabel "Arylide yellow"@en ;
     skos:notation "#E9D66B"^^voco:hex ;
-    dct:source "ColorHexa" .
+    dct:source "Colour Hexa" .
 
 voco:ashgray a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
@@ -212,11 +212,11 @@ voco:azure a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
     skos:prefLabel "Azure"@en ;
     skos:notation "#007FFF"^^voco:hex ;
-    dct:source "RGB color model" .
+    dct:source "RGB colour model" .
 
 voco:azurexweb a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
-    skos:prefLabel "Azure (X11/web color)"@en ;
+    skos:prefLabel "Azure (X11/web colour)"@en ;
     skos:notation "#F0FFFF"^^voco:hex ;
     dct:source "X11/Web" .
 
@@ -332,7 +332,7 @@ voco:black a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
     skos:prefLabel "Black"@en ;
     skos:notation "#000000"^^voco:hex ;
-    dct:source "RGB color model" .
+    dct:source "RGB colour model" .
 
 voco:blackbean a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
@@ -404,13 +404,13 @@ voco:bluemunsell a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
     skos:prefLabel "Blue (Munsell)"@en ;
     skos:notation "#0093AF"^^voco:hex ;
-    dct:source "Munsell color wheel" .
+    dct:source "Munsell colour wheel" .
 
 voco:bluencs a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
     skos:prefLabel "Blue (NCS)"@en ;
     skos:notation "#0087BD"^^voco:hex ;
-    dct:source "Natural color system" .
+    dct:source "Natural colour system" .
 
 voco:bluepantone a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
@@ -422,7 +422,7 @@ voco:bluepigment a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
     skos:prefLabel "Blue (pigment)"@en ;
     skos:notation "#333399"^^voco:hex ;
-    dct:source "CMYK color model" .
+    dct:source "CMYK colour model" .
 
 voco:bluebell a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
@@ -506,7 +506,7 @@ voco:britishracinggreen a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
     skos:prefLabel "British racing green"@en ;
     skos:notation "#004225"^^voco:hex ;
-    dct:source "ColorHexa" .
+    dct:source "Colour Hexa" .
 
 voco:bronze a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
@@ -518,7 +518,7 @@ voco:brown a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
     skos:prefLabel "Brown"@en ;
     skos:notation "#964B00"^^voco:hex ;
-    dct:source "ColorXS" .
+    dct:source "Colour XS" .
 
 voco:brownsugar a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
@@ -650,7 +650,7 @@ voco:canaryyellow a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
     skos:prefLabel "Canary yellow"@en ;
     skos:notation "#FFEF00"^^voco:hex ;
-    dct:source "CMYK color model" .
+    dct:source "CMYK colour model" .
 
 voco:candypink a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
@@ -764,7 +764,7 @@ voco:ceruleanrgb a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
     skos:prefLabel "Cerulean (RGB)"@en ;
     skos:notation "#0040FF"^^voco:hex ;
-    dct:source "RGB color model" .
+    dct:source "RGB colour model" .
 
 voco:champagne a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
@@ -794,7 +794,7 @@ voco:chartreuseweb a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
     skos:prefLabel "Chartreuse (web)"@en ;
     skos:notation "#80FF00"^^voco:hex ;
-    dct:source "RGB color model" .
+    dct:source "RGB colour model" .
 
 voco:cherryblossompink a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
@@ -944,7 +944,7 @@ voco:coquelicot a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
     skos:prefLabel "Coquelicot"@en ;
     skos:notation "#FF3800"^^voco:hex ;
-    dct:source "ColorHexa" .
+    dct:source "ColourHexa" .
 
 voco:coral a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
@@ -1040,7 +1040,7 @@ voco:cyanprocess a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
     skos:prefLabel "Cyan (process)"@en ;
     skos:notation "#00B7EB"^^voco:hex ;
-    dct:source "CMYK color model" .
+    dct:source "CMYK colour model" .
 
 voco:cybergrape a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
@@ -1436,7 +1436,7 @@ voco:falured a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
     skos:prefLabel "Falu red"@en ;
     skos:notation "#801818"^^voco:hex ;
-    dct:source "ColorHexa" .
+    dct:source "Colour Hexa" .
 
 voco:fandango a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
@@ -2198,9 +2198,9 @@ voco:lilacluster a skos:Concept, voco:ColourConcept ;
     skos:prefLabel "Lilac Luster"@en ;
     skos:notation "#AE98AA"^^voco:hex .
 
-voco:limecolorwheel a skos:Concept, voco:ColourConcept ;
+voco:limecolourwheel a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
-    skos:prefLabel "Lime (color wheel)"@en ;
+    skos:prefLabel "Lime (colour wheel)"@en ;
     skos:notation "#BFFF00"^^voco:hex .
 
 voco:limewebxgreen a skos:Concept, voco:ColourConcept ;
@@ -3513,9 +3513,9 @@ voco:redvioletcrayola a skos:Concept, voco:ColourConcept ;
     skos:prefLabel "Red-violet (Crayola)"@en ;
     skos:notation "#C0448F"^^voco:hex .
 
-voco:redvioletcolorwheel a skos:Concept, voco:ColourConcept ;
+voco:redvioletcolourwheel a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
-    skos:prefLabel "Red-violet (Color wheel)"@en ;
+    skos:prefLabel "Red-violet (Colour wheel)"@en ;
     skos:notation "#922B3E"^^voco:hex .
 
 voco:redwood a skos:Concept, voco:ColourConcept ;
@@ -3948,9 +3948,9 @@ voco:skobeloff a skos:Concept, voco:ColourConcept ;
     skos:prefLabel "Skobeloff"@en ;
     skos:notation "#007474"^^voco:hex .
 
-voco:skincolor a skos:Concept, voco:ColourConcept ;
+voco:skincolour a skos:Concept, voco:ColourConcept ;
     skos:inScheme voco: ;
-    skos:prefLabel "Skin color"@en ;
+    skos:prefLabel "Skin colour"@en ;
     skos:notation "#FFDEAD"^^voco:hex .
 
 voco:skyblue a skos:Concept, voco:ColourConcept ;
@@ -4488,8 +4488,8 @@ voco:violet a skos:Concept, voco:ColourConcept ;
   skos:notation "#8F00FF"^^voco:hex ;
   skos:inScheme voco: .
 
-voco:violetcolorwheel a skos:Concept, voco:ColourConcept ;
-  skos:prefLabel "Violet (color wheel)"@en;
+voco:violetcolourwheel a skos:Concept, voco:ColourConcept ;
+  skos:prefLabel "Violet (colour wheel)"@en;
   skos:notation "#7F00FF"^^voco:hex ;
   skos:inScheme voco: .
 
@@ -4713,8 +4713,8 @@ voco:yellowgreencrayola a skos:Concept, voco:ColourConcept ;
   skos:notation "#C5E384"^^voco:hex ;
   skos:inScheme voco: .
 
-voco:yellowgreencolorwheel a skos:Concept, voco:ColourConcept ;
-  skos:prefLabel "Yellow-green (Color Wheel)"@en;
+voco:yellowgreencolourwheel a skos:Concept, voco:ColourConcept ;
+  skos:prefLabel "Yellow-green (Colour Wheel)"@en;
   skos:notation "#30B21A"^^voco:hex ;
   skos:inScheme voco: .
 
@@ -4723,8 +4723,8 @@ voco:yelloworange a skos:Concept, voco:ColourConcept ;
   skos:notation "#FFAE42"^^voco:hex ;
   skos:inScheme voco: .
 
-voco:yelloworangecolorwheel a skos:Concept, voco:ColourConcept ;
-  skos:prefLabel "Yellow Orange (Color Wheel)"@en;
+voco:yelloworangecolourwheel a skos:Concept, voco:ColourConcept ;
+  skos:prefLabel "Yellow Orange (Colour Wheel)"@en;
   skos:notation "#FF9505"^^voco:hex ;
   skos:inScheme voco: .
 
